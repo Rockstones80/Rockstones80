@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I'm Samuel Uzor<br>🔭 I’m currently working on frontend project named Jobportal with React.js, Tailwindcss and Supabase <br>🌱 I’m currently learning sanity.io<br>👯 I’m looking to collaborate on fun challenging stuff<br>💬 Ask me about frontend development, and basically anything about tech. I love to learn<br>📫 Contact me samueluzor80@gmail.com<br>
+👋Hi, I'm Samuel Uzor<br>👯 I’m looking to collaborate on fun challenging stuff<br>💬 Ask me about frontend development, and basically anything about tech. I love to learn<br>📫 Contact me samueluzor80@gmail.com<br>
 
 
 ## 🌐 Socials:
